@@ -1,0 +1,1 @@
+{"type":"object","required":["id","entry","nodes"],"properties":{"id":{"type":"string"},"entry":{"type":"string"},"nodes":{"type":"array"}}}

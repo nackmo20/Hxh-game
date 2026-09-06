@@ -1,0 +1,7 @@
+{
+  "name": "HxHGame.EditModeTests",
+  "optionalUnityReferences": ["TestAssemblies"],
+  "includePlatforms": ["Editor"],
+  "references": ["HxHGame.Runtime"],
+  "autoReferenced": false
+}
